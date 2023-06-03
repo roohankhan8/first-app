@@ -1,0 +1,4 @@
+to run the code:
+
+ng serve
+json-server --watch db.json
